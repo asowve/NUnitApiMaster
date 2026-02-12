@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="BaseUrl" value="https://dummyjson.com" />
+    <Parameter name="UserName" value="John" />
+    <Parameter name="LastName" value="do" />
+    <Parameter name="Email" value="john.do@example.com" />
+    <Parameter name="ApiToken" value="YOUR_API_TOKEN" />
+    <Parameter name="NasaBaseUrl" value="https://api.nasa.gov" />
+  </TestRunParameters>
+  <RunConfiguration>
+    <TargetFrameworkVersion>net7.0</TargetFrameworkVersion>
+    <ResultsDirectory>TestResults</ResultsDirectory>
+  </RunConfiguration>
+</RunSettings>

@@ -1,0 +1,7 @@
+﻿services:
+  apitestswithnunit:
+    image: apitestswithnunit
+    build:
+      context: .
+      dockerfile: ApiTestsWithNUnit/Dockerfile
+
