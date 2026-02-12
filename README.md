@@ -1,9 +1,7 @@
-# 🛠 NUnit API Testing in C# – Revamped Tutorial
+# 🛠 NUnit API Testing in C#
 
 Welcome! 👋  
 This project is a revisited and improved version of my first NUnit API tests tutorial. Here, we automate API tests in **C#** using **NUnit**, **RestSharp**, and **Allure Reports**. The goal is to create **robust, reusable, and maintainable tests** that can run locally or in CI/CD pipelines.
-
-You can read the full article here: [Dev.to Tutorial](https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa) 📖
 
 ---
 
@@ -43,7 +41,7 @@ Also includes an example for NASA API testing using `.runsettings` for secure AP
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/m4rri4nne/ApiTestsWithNUnit.git
+git clone https://github.com/asowve/ApiTestsWithNUnit.git
 cd ApiTestsWithNUnit
 ```
 ### 2️⃣ Install dependencies
@@ -88,13 +86,6 @@ This will open a beautiful interactive report in your browser. 🎉
 - Keep sensitive data out of version control
 - Allure reports give a quick visual overview of test results
 - Tests are reusable and can be extended for other endpoints
-
-## 👩‍💻 Author
-
-Marianne – Sharing my journey in C#, NUnit, and API testing 💻
-
-✨ Enjoy coding and happy testing! ✨
-
 
 
 
