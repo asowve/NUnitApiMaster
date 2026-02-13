@@ -41,7 +41,7 @@ Also includes an example for NASA API testing using `.runsettings` for secure AP
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/asowve/ApiTestsWithNUnit.git
+git clone https://github.com/asowve/NUnitApiMaster.git
 cd ApiTestsWithNUnit
 ```
 ### 2️⃣ Install dependencies
